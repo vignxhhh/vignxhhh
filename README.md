@@ -1,59 +1,90 @@
-<h1 align="left">Hi, I'm Vigneshwar 👋</h1>
+<a href="https://bucolic-manatee-2eb979.netlify.app">
+  <img src="assets/banner.svg" width="100%" alt="Vigneshwar Patcheappane: Robotics × AI × Semiconductors. Computer Engineering at Arizona State University, open to Summer 2027 internships.">
+</a>
 
-**Computer Engineering @ Arizona State University** · building where robotics meets AI hardware.
+<p align="center">
+  <a href="https://bucolic-manatee-2eb979.netlify.app"><img src="https://img.shields.io/badge/Portfolio-F0825A?style=for-the-badge&logo=googlechrome&logoColor=111010&labelColor=F4C542" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/vigneshwar-patcheappane-1a9180273"><img src="https://img.shields.io/badge/LinkedIn-B4ABF5?style=for-the-badge&logo=linkedin&logoColor=111010&labelColor=F4C542" alt="LinkedIn"></a>
+  <a href="mailto:vigneshwarp12@gmail.com"><img src="https://img.shields.io/badge/Email-86DDBE?style=for-the-badge&logo=gmail&logoColor=111010&labelColor=F4C542" alt="Email"></a>
+  <a href="https://bucolic-manatee-2eb979.netlify.app/#resume"><img src="https://img.shields.io/badge/Resume-FFFDF8?style=for-the-badge&logo=readdotcv&logoColor=111010&labelColor=F4C542" alt="Resume"></a>
+</p>
 
-I like working close to the metal (Linux kernel modules, device drivers, Verilog) and wiring that up to perception and learning systems that move real things. Right now I'm aiming at roles like **robotics software, embedded AI, and AI/robotics silicon engineering**.
+I'm a Computer Engineering junior at **Arizona State University** working where three things keep converging: **robotics**, **AI**, and **semiconductors**. In one semester I'll write structural Verilog for an FPGA, wire up a robot that finds its own way through a maze, and train a neural network, and I like that those are turning into the same job.
 
-- 🔭 Currently building: **[SampleSort](https://github.com/vignxhhh/SampleSort)** — a vision-guided robotic arm that sorts lab samples
-- 🌱 Learning: ROS 2 + MoveIt 2, embedded C on STM32, SystemVerilog
-- 🎓 Dean's List · Adobe Student Ambassador · Autodesk Design & Make Ambassador · Industry Outreach Lead, ACM at ASU
-- 💼 Open to **Summer 2027 internships** and undergraduate research in robotics / embedded AI / hardware
+- 🔭 **Building:** [SampleSort](https://github.com/vignxhhh/SampleSort), a vision-guided arm that sorts lab samples
+- 🌱 **Learning:** ROS 2 + MoveIt 2, embedded C on STM32, SystemVerilog verification
+- 🎓 **On campus:** Technical Assistant @ Fulton Schools · Adobe & Autodesk Student Ambassador · Dean's List
+- 🎯 **Looking for:** Summer 2027 internships and research in robotics, embedded AI, and AI / robotics silicon
 
----
+## Featured work
 
-### 🛠️ Featured work
+<p>
+  <a href="https://github.com/vignxhhh/SampleSort"><img src="assets/card-samplesort.svg" width="49%" alt="SampleSort: vision-guided sorting arm, 120 of 120 tubes sorted in simulation"></a>
+  <a href="https://github.com/vignxhhh/Homecare-Inspection-Website"><img src="assets/card-homecare.svg" width="49%" alt="Homecare Inspection System: full-stack contract build for BioGenAI Solutions"></a>
+</p>
 
-| Project | What it is | Stack |
+## More from the lab
+
+<sub>Coursework and side projects. Click a card for the full write-up on my portfolio.</sub>
+
+<p>
+  <a href="https://bucolic-manatee-2eb979.netlify.app/#work"><img src="assets/mini-fpga-adders.svg" width="32%" alt="FPGA adder architectures and timing analysis"></a>
+  <a href="https://bucolic-manatee-2eb979.netlify.app/#work"><img src="assets/mini-parking-meter.svg" width="32%" alt="FPGA parking meter controller at 200 MHz"></a>
+  <a href="https://bucolic-manatee-2eb979.netlify.app/#work"><img src="assets/mini-maze-bot.svg" width="32%" alt="Autonomous maze-navigating robot"></a>
+  <a href="https://bucolic-manatee-2eb979.netlify.app/#work"><img src="assets/mini-kernel.svg" width="32%" alt="Linux kernel and systems programming in C"></a>
+  <a href="https://bucolic-manatee-2eb979.netlify.app/#work"><img src="assets/mini-mri.svg" width="32%" alt="Brain tumor MRI classifier, 88% test accuracy"></a>
+  <a href="https://bucolic-manatee-2eb979.netlify.app/#work"><img src="assets/mini-tram.svg" width="32%" alt="Airport terminal tram controller FSM"></a>
+</p>
+
+## Toolbox
+
+<img src="assets/stack.svg" width="100%" alt="Tech stack. Silicon: Verilog, RTL design, FPGA, Vivado, ModelSim, timing analysis. Robotics and embedded: ROS2, C/C++, embedded systems, Linux kernel, PyBullet, OpenCV. AI and data: Python, PyTorch, TensorFlow/Keras, LeRobot. Software and cloud: TypeScript, React, Node.js, Java, Docker, AWS.">
+
+<details>
+<summary><b>💼 Experience</b></summary>
+<br>
+
+| Role | Where | When |
 | --- | --- | --- |
-| 🧪 **[SampleSort](https://github.com/vignxhhh/SampleSort)** | Vision-guided 5-DOF arm that detects, identifies (QR), and sorts lab sample tubes, with failure recovery and a chain-of-custody log. **100% sort success on 120 tubes** in simulation; ACT imitation-learning pipeline via LeRobot. | Python · PyBullet · OpenCV · LeRobot · SQLite · Streamlit |
-| 🏠 **[Homecare Inspection System](https://github.com/vignxhhh/Homecare-Inspection-Website)** | Contract build for BioGenAI Solutions: role-based inspection tracking with checklists, photo uploads, and PDF reports for a construction client. | React · TypeScript · Express · SQLite · JWT |
-| 🐧 **Linux kernel & drivers** *(coursework, ASU CSE 330)* | Custom syscall, producer–consumer kernel module with semaphores, 5-level page-table walker, USB block device driver on the BIO layer. | C · Linux kernel |
+| Design & Make Student Ambassador | Autodesk | Aug 2026 – now |
+| Student Ambassador | Adobe | Jun 2026 – now |
+| Technical Assistant | Ira A. Fulton Schools of Engineering, ASU | Feb 2026 – now |
+| AI Application Engineer | BioGenAI Solutions LLC | May – Aug 2026 |
+| Industry Officer | ACM at ASU | Nov 2025 – Aug 2026 |
+| Technical Engineering Intern | American Chamber of Commerce, Abu Dhabi | May – Aug 2025 |
 
----
+</details>
 
-### 🧰 Toolbox
+<details>
+<summary><b>🐧 Systems coursework highlights</b></summary>
+<br>
 
-**Languages**
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+- **Custom Linux syscall** on a kernel compiled from source
+- **Producer–consumer kernel module** on kernel threads and semaphores
+- **Five-level page-table walker**
+- **USB block device driver** exposing a USB drive through the BIO layer and IOCTL
+- **Graph algorithms in C++ without the STL**, including Dijkstra's shortest path
 
-**Robotics & AI**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![PyBullet](https://img.shields.io/badge/PyBullet-1f425f?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/LeRobot-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+</details>
 
-**Systems & Hardware**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6B00?style=flat-square&logo=autodesk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<details>
+<summary><b>📜 Certifications</b></summary>
+<br>
 
-**Web**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+**Semiconductors & hardware:** Intro to Semiconductor Manufacturing · Intro to VLSI · RTL Designing · Verilog Designing · FPGA Development · Embedded Systems with Rust<br>
+**Robotics & vision:** Robotics and Mechatronics · Computer Vision with Ultralytics and OpenCV · Autonomous AI Systems<br>
+**AI:** Claude API & AI Fluency (Anthropic) · LangChain and Hugging Face · AI Agents · Generative AI Concepts
 
----
+</details>
 
-### 📫 Find me
+<details>
+<summary><b>🎾 Off the keyboard</b></summary>
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-E2725B?style=for-the-badge&logo=netlify&logoColor=white)](https://bucolic-manatee-2eb979.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshwar-patcheappane-1a9180273)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshwarp12@gmail.com)
+13+ years on a tennis court, still playing with the ASU Tennis Club, and twice part of the support crew at the Mubadala World Tennis Championship in Abu Dhabi.
+
+</details>
+
+<br>
+
+<a href="mailto:vigneshwarp12@gmail.com"><img src="assets/footer.svg" width="100%" alt="Let's build something. Open to Summer 2027 internships and research. Email me."></a>
