@@ -1,12 +1,12 @@
-<a href="https://bucolic-manatee-2eb979.netlify.app">
+<a href="https://vigneshwarp.netlify.app">
   <img src="assets/banner.svg" width="100%" alt="Vigneshwar Patcheappane: Robotics × AI × Semiconductors. Computer Engineering at Arizona State University, open to Summer 2027 internships.">
 </a>
 
 <p align="center">
-  <a href="https://bucolic-manatee-2eb979.netlify.app"><img src="https://img.shields.io/badge/Portfolio-F0825A?style=for-the-badge&logo=googlechrome&logoColor=111010&labelColor=F4C542" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/vigneshwar-patcheappane-1a9180273"><img src="https://img.shields.io/badge/LinkedIn-B4ABF5?style=for-the-badge&logo=linkedin&logoColor=111010&labelColor=F4C542" alt="LinkedIn"></a>
-  <a href="mailto:vigneshwarp12@gmail.com"><img src="https://img.shields.io/badge/Email-86DDBE?style=for-the-badge&logo=gmail&logoColor=111010&labelColor=F4C542" alt="Email"></a>
-  <a href="https://bucolic-manatee-2eb979.netlify.app/#resume"><img src="https://img.shields.io/badge/Resume-FFFDF8?style=for-the-badge&logo=readdotcv&logoColor=111010&labelColor=F4C542" alt="Resume"></a>
+  <a href="https://vigneshwarp.netlify.app"><img src="assets/btn-portfolio.svg" height="48" alt="Portfolio"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/vigneshwar-patcheappane-1a9180273"><img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:vigneshwarp12@gmail.com"><img src="assets/btn-email.svg" height="48" alt="Email"></a>&nbsp;
+  <a href="https://vigneshwarp.netlify.app/#resume"><img src="assets/btn-resume.svg" height="48" alt="Resume"></a>
 </p>
 
 I'm a Computer Engineering junior at **Arizona State University** working where three things keep converging: **robotics**, **AI**, and **semiconductors**. In one semester I'll write structural Verilog for an FPGA, wire up a robot that finds its own way through a maze, and train a neural network, and I like that those are turning into the same job.
@@ -25,15 +25,15 @@ I'm a Computer Engineering junior at **Arizona State University** working where 
 
 ## More from the lab
 
-<sub>Coursework and side projects. Click a card for the full write-up on my portfolio.</sub>
+<sub>Coursework and side projects. Click a card for the code or the full write-up.</sub>
 
 <p>
-  <a href="https://bucolic-manatee-2eb979.netlify.app/#work"><img src="assets/mini-fpga-adders.svg" width="32%" alt="FPGA adder architectures and timing analysis"></a>
-  <a href="https://bucolic-manatee-2eb979.netlify.app/#work"><img src="assets/mini-parking-meter.svg" width="32%" alt="FPGA parking meter controller at 200 MHz"></a>
-  <a href="https://bucolic-manatee-2eb979.netlify.app/#work"><img src="assets/mini-maze-bot.svg" width="32%" alt="Autonomous maze-navigating robot"></a>
-  <a href="https://bucolic-manatee-2eb979.netlify.app/#work"><img src="assets/mini-kernel.svg" width="32%" alt="Linux kernel and systems programming in C"></a>
-  <a href="https://bucolic-manatee-2eb979.netlify.app/#work"><img src="assets/mini-mri.svg" width="32%" alt="Brain tumor MRI classifier, 88% test accuracy"></a>
-  <a href="https://bucolic-manatee-2eb979.netlify.app/#work"><img src="assets/mini-tram.svg" width="32%" alt="Airport terminal tram controller FSM"></a>
+  <a href="https://vigneshwarp.netlify.app/#work"><img src="assets/mini-fpga-adders.svg" width="32%" alt="FPGA adder architectures and timing analysis"></a>
+  <a href="https://vigneshwarp.netlify.app/#work"><img src="assets/mini-parking-meter.svg" width="32%" alt="FPGA parking meter controller at 200 MHz"></a>
+  <a href="https://vigneshwarp.netlify.app/#work"><img src="assets/mini-maze-bot.svg" width="32%" alt="Autonomous maze-navigating robot"></a>
+  <a href="https://vigneshwarp.netlify.app/#work"><img src="assets/mini-kernel.svg" width="32%" alt="Linux kernel and systems programming in C"></a>
+  <a href="https://github.com/vignxhhh/brain-tumor-mri-cnn"><img src="assets/mini-mri.svg" width="32%" alt="Brain tumor MRI classifier, 94% held-out accuracy"></a>
+  <a href="https://vigneshwarp.netlify.app/#work"><img src="assets/mini-tram.svg" width="32%" alt="Airport terminal tram controller FSM"></a>
 </p>
 
 ## Toolbox
